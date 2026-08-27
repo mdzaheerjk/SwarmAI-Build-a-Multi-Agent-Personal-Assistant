@@ -4,7 +4,7 @@ Build an AI personal assistant using a multi-agent architecture to manage email,
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_lsqkpqlsqkpqlsqk.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_lsqkpqlsqkpqlsqk.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Build an AI personal assistant using a multi-agent architecture to manage email,
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_10.46.43PM.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_10.46.43PM.png"
        alt="System Architecture"
        width="600" />
 </p>
